@@ -1,0 +1,26 @@
+Prequisites:
+- Create a folder called myfiles.
+- In that folder create three .txt files
+- append any data to each one. 
+
+****Type out what you did & the output for each below***
+
+**Task 1: Creating a Tar Archive**
+- Open your terminal.
+- Use the `tar` command to create a tar archive of a directory named "myfiles." 
+
+**Task 2: Compressing a Tar Archive**
+- Still in the terminal, use the `gzip` command to compress the "myfiles.tar" archive.
+
+**Task 3: Extracting a Tar Archive**
+- Use `tar` to extract the contents from the compressed "myfiles.tar.gz"
+
+**Task 4: Downloading a File with Curl**
+- With `curl`, download a file from a URL. Find an image url that ends with jpg, png, gif on the internet and download it using curl 
+
+
+**Task 5: Sending a GET Request with Curl**
+Use curl to fetch basic information about your current weather. You can use a weather service's API. the url is wttr.in do not download it, just output it to the terminal.
+
+
+Check the last video it should give you the answer to these questions.
