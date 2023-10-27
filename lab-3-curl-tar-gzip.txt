@@ -9,6 +9,8 @@ Prequisites:
 - Open your terminal.
 - Use the `tar` command to create a tar archive of a directory named "myfiles." 
 
+tar -cvf this-is-an-archive.tar myfiles
+
 **Task 2: Compressing a Tar Archive**
 - Still in the terminal, use the `gzip` command to compress the "myfiles.tar" archive.
 
