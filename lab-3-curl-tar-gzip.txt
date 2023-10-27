@@ -35,3 +35,5 @@ Use curl to fetch basic information about your current weather. You can use a we
 
 
 Check the last video it should give you the answer to these questions.
+
+curl https://www.msn.com/en-us/weather/forecast/in-Brooklyn,NY?loc=eyJsIjoiQnJvb2tseW4iLCJyIjoiTlkiLCJjIjoiVW5pdGVkIFN0YXRlcyIsImkiOiJVUyIsImciOiJlbi11cyIsIngiOiItNzMuODc2Mjg5MzY3Njc1NzgiLCJ5IjoiNDAuNjQwOTQ1NDM0NTcwMzEifQ%3D%3D&weadegreetype=F&ocid=entnewsntp&cvid=99df06526e884ef1a4fd872542d396d6&ei=12
