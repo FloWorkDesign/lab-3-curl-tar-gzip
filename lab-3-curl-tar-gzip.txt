@@ -24,7 +24,11 @@ tar -xvf this-is-an-archive.tar.gz
 **Task 4: Downloading a File with Curl**
 - With `curl`, download a file from a URL. Find an image url that ends with jpg, png, gif on the internet and download it using curl 
 
+curl -O https://i.pinimg.com/originals/fc/f2/6d/fcf26dea78633a078c53478e25b00914.jpg
 
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  159k  100  159k    0     0  2659k      0 --:--:-- --:--:-- --:--:-- 2659k
 
 **Task 5: Sending a GET Request with Curl**
 Use curl to fetch basic information about your current weather. You can use a weather service's API. the url is wttr.in do not download it, just output it to the terminal.
