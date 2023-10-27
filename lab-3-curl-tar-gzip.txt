@@ -33,7 +33,6 @@ curl -O https://i.pinimg.com/originals/fc/f2/6d/fcf26dea78633a078c53478e25b00914
 **Task 5: Sending a GET Request with Curl**
 Use curl to fetch basic information about your current weather. You can use a weather service's API. the url is wttr.in do not download it, just output it to the terminal.
 
-
 Check the last video it should give you the answer to these questions.
 
 curl https://www.msn.com/en-us/weather/forecast/in-Brooklyn,NY?loc=eyJsIjoiQnJvb2tseW4iLCJyIjoiTlkiLCJjIjoiVW5pdGVkIFN0YXRlcyIsImkiOiJVUyIsImciOiJlbi11cyIsIngiOiItNzMuODc2Mjg5MzY3Njc1NzgiLCJ5IjoiNDAuNjQwOTQ1NDM0NTcwMzEifQ%3D%3D&weadegreetype=F&ocid=entnewsntp&cvid=99df06526e884ef1a4fd872542d396d6&ei=12
